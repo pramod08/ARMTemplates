@@ -187,7 +187,7 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "wget -O -u jothi.pandiyan@bizruntime.com:AlThingTechno@123 https://bitbucket.org/AlThingTechnologies/qa-redmine/raw/51452f0a0b4cea2bfffd036747d68b6581893ee9/apache2.sh"
+            "https://bitbucket.org/AlThingTechnologies/qa-redmine/raw/51452f0a0b4cea2bfffd036747d68b6581893ee9/apache2.sh"
           ],
           "commandToExecute": "sh install_apache.sh"
         }
